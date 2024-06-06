@@ -1,11 +1,12 @@
 .container-cards{
+    padding-top: 164px;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
 }
 .card{
-
+     
     padding: 12px;
     background-color: white;
     border-radius: 12px;
@@ -46,7 +47,7 @@
 .card-header-content{
     display: flex;
     flex-direction: column;
-    padding-bottom: 16px;
+    padding-bottom: 20px;
 }
 .divider{
     color: #fefdfd; 
